@@ -1,5 +1,9 @@
 <html>
+<head>
+        <meta charset="UTF-8" />
+        <title>First JSP App</title>
+    </head>  
 <body>
-<h2 stype="colour: red">Hello my name is Juluia -2</h2>
+<h2>Hello my name is Julia </h2>
 </body>
 </html>
