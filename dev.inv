@@ -1,2 +1,2 @@
 [dev]
-192.168.1.38 ansible_user=ysadoma
+172.31.31.145 ansible_user=ubuntu
